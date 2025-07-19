@@ -8,4 +8,4 @@ class Sum
   System.out.println("Sum is"+ c);
  }
 }
-  
+ 

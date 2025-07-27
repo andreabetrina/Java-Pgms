@@ -13,5 +13,3 @@ class Add
   System.out.println("Sum is"+c);
  }
 }
-
-

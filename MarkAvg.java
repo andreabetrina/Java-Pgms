@@ -30,4 +30,3 @@ class Stu {
         System.out.println("Average = " + avg);
     }
 }
-
